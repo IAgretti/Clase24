@@ -1,0 +1,6 @@
+C:\Users\Usuario\Documents\SharpDevelop Projects\Clase24\Clase24\obj\Debug\Clase24.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\SharpDevelop Projects\Clase24\Clase24\bin\Debug\Clase24.exe.config
+C:\Users\Usuario\Documents\SharpDevelop Projects\Clase24\Clase24\bin\Debug\Clase24.exe
+C:\Users\Usuario\Documents\SharpDevelop Projects\Clase24\Clase24\bin\Debug\Clase24.pdb
+C:\Users\Usuario\Documents\SharpDevelop Projects\Clase24\Clase24\obj\Debug\Clase24.exe
+C:\Users\Usuario\Documents\SharpDevelop Projects\Clase24\Clase24\obj\Debug\Clase24.pdb
